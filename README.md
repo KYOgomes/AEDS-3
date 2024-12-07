@@ -3,7 +3,7 @@
 Este é o repositório da disciplina **Estruturas de Dados e Algoritmos 3 (AEDs 3)**, ministrada pelo professor [Nome do Professor]. Durante o curso, exploramos tópicos avançados essenciais para a construção de sistemas eficientes, com foco em técnicas de otimização, compressão de dados e segurança. Alguns dos principais temas abordados incluem:
 
 <p align="center">
-  <img src="codigo01/aeds3png" alt="Imagem AEDS 3" />
+  <img src="codigo01/aeds3.png" alt="Imagem AEDS 3" />
 </p>
 
 - **Tabelas Hash**: Estudo de tabelas hash, incluindo a implementação de funções de dispersão eficientes e técnicas para resolução de colisões, como encadeamento e endereçamento aberto. Analisamos o desempenho das tabelas hash em termos de tempo de busca, inserção e remoção.
