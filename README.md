@@ -1,6 +1,6 @@
 # Estruturas de Dados e Algoritmos 3 (AEDs 3)
 
-Este é o repositório da disciplina **Estruturas de Dados e Algoritmos 3 (AEDs 3)**, ministrada pelo professor [Nome do Professor]. Durante o curso, exploramos tópicos avançados essenciais para a construção de sistemas eficientes, com foco em técnicas de otimização, compressão de dados e segurança. Alguns dos principais temas abordados incluem:
+Este é o repositório da disciplina **Estruturas de Dados e Algoritmos 3 (AEDs 3)**, ministrada pelo professor **Marcos Kutova**. Durante o curso, exploramos tópicos avançados essenciais para a construção de sistemas eficientes, com foco em técnicas de otimização, compressão de dados e segurança. Alguns dos principais temas abordados incluem:
 
 <p align="center">
   <img src="codigo01/aeds3.png" alt="Imagem AEDS 3" />
